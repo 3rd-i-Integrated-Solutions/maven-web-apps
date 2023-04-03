@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technologies</h1>
+<h1 align="center">3rd-i Solutions</h1>
 <h2 align="center"> Welcome to 3rd-i Solutions.
 	3rd-i is a technology and security solutions company transforming governments and businesses regionally and globally. 
 	The shout of the King is in our midst. His name is YESHUA.  HE IS OUR SUCCESS ACCESS KEY</h2>
